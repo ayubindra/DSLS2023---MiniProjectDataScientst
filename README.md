@@ -1,1 +1,1 @@
-# DSLS2023---MiniProjectDataScientst
+# DSLS2023-MiniProjectDataScientst
